@@ -7,7 +7,7 @@ I detta repo kommer det att ligga demon för samtliga moment vi går igenom i de
 Ni behöver klona ner detta repo genom kommandot.
 
 ```bash
-git clone https://github.com/sebastiantegel/fsd23d-sys-react
+git clone https://github.com/sebastiantegel/fsu23d-sys-react
 ```
 
 Detta kommando behöver ni köra från en plats på er dator där ni nu kommer att placera repot.
@@ -20,7 +20,7 @@ Efter varje lektion kommer ni att få en ny demo och kan uppdatera detta repo. D
 git pull
 ```
 
-När ni i terminalen står i mappen fsd23d-sys-react
+När ni i terminalen står i mappen fsu23d-sys-react
 
 ## Sätta igång ett demo
 

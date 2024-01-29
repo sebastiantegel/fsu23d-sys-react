@@ -1,0 +1,15 @@
+nav {
+  ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+
+    li {
+      .active {
+        border-bottom: 1px solid white;
+      }
+    }
+  }
+}
